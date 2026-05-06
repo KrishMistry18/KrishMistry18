@@ -1,10 +1,12 @@
 # 💫 About Me:
+
 Hello, I'm Krish Mistry👋<br>I'm a 3rd-year IT Engineering student at St. Francis Institute of Technology, Mumbai, passionate about building technology that solves real problems.
  
 My work spans AI-driven systems, full-stack development, and mobile applications. Some of my recent projects include:
  
-🏘️ HemiSphere — A unified smart community mobile app built with Flutter and Firebase, featuring AI-powered incident detection (accidents, garbage, construction) using MobileNetV3 CNN via TensorFlow, real-time safety monitoring, resource sharing, and CO2 emissions tracking — addressing the gap in fragmented neighbourhood systems.
-🌍 ImpactGlobe — A real-time geopolitical and financial intelligence dashboard built on a 3D interactive globe, combining Google Gemini AI, live forex data, and environmental overlays like earthquakes, wildfires, and air quality all visualized on a Three.js globe powered by Next.js and Supabase.
+🏘️ HemiSphere — A unified smart community mobile app built with Flutter and Firebase, featuring AI-powered incident detection (accidents, garbage, construction) using MobileNetV3 CNN via TensorFlow, real-time safety monitoring, resource sharing, and CO2 emissions tracking — addressing the gap in fragmented neighbourhood systems.<br>
+
+<br>🌍 ImpactGlobe — A real-time geopolitical and financial intelligence dashboard built on a 3D interactive globe, combining Google Gemini AI, live forex data, and environmental overlays like earthquakes, wildfires, and air quality all visualized on a Three.js globe powered by Next.js and Supabase.
 
  
 I've had the opportunity to compete in and organize hackathons, including serving as an Ideathon Organizer and earning Runner-Up at Colloquium '25. These experiences have pushed me to think fast, build faster, and collaborate better.
