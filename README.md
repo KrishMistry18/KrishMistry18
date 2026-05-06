@@ -1,5 +1,21 @@
 # 💫 About Me:
-Hello, I'm Krish Mistry👋<br><br>💻 I'm currently working on<br>✨ A new JavaScript framework that helps developers build beautiful, accessible UIs faster.<br><br>🤝 I'm looking to collaborate on<br>💬 Open-source projects that focus on front-end performance and user experience.<br><br>🆘 I'm looking for help with<br>🐛 Refactoring some legacy code in one of my personal projects.<br><br>🌱 I'm currently learning<br>Rust and diving deep into its ownership model.<br><br>💬 Ask me about<br>🔭 Web development, API design, or my favorite sci-fi books.<br><br>💡 Fun fact<br>🚀 I once built a small app that tells you the best time to see the International Space Station.
+Hello, I'm Krish Mistry👋<br>I'm a 3rd-year IT Engineering student at St. Francis Institute of Technology, Mumbai, passionate about building technology that solves real problems.
+ 
+My work spans AI-driven systems, full-stack development, and mobile applications. Some of my recent projects include:
+ 
+🏘️ HemiSphere — A unified smart community mobile app built with Flutter and Firebase, featuring AI-powered incident detection (accidents, garbage, construction) using MobileNetV3 CNN via TensorFlow, real-time safety monitoring, resource sharing, and CO2 emissions tracking — addressing the gap in fragmented neighbourhood systems.
+🌍 ImpactGlobe — A real-time geopolitical and financial intelligence dashboard built on a 3D interactive globe, combining Google Gemini AI, live forex data, and environmental overlays like earthquakes, wildfires, and air quality all visualized on a Three.js globe powered by Next.js and Supabase.
+
+ 
+I've had the opportunity to compete in and organize hackathons, including serving as an Ideathon Organizer and earning Runner-Up at Colloquium '25. These experiences have pushed me to think fast, build faster, and collaborate better.
+ 
+Beyond engineering, I serve as Head of NSS, where I've developed leadership, event management, and organizational skills that complement my technical work.
+ 
+I'm always curious, always shipping, and always looking for the next problem worth solving.
+ 
+📬 mistrykrish2005@gmail.com | 🌐 krishmistry18.github.io/Portfolio
+ 
+Open to collaborations, internships, and interesting conversations.
 
 
 ## 🌐 Socials:
