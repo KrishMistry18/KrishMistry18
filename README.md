@@ -65,8 +65,3 @@ Open to collaborations, internships, and interesting conversations.
 ![](https://github-profile-trophy.vercel.app/?username=KrishMistry18&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=4)
 
 </div>
-
----
-[![](https://komarev.com/ghpvc/?username=KrishMistry18&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
