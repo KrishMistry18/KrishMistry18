@@ -15,7 +15,7 @@ Beyond engineering, I serve as Head of NSS, where I've developed leadership, eve
  
 I'm always curious, always shipping, and always looking for the next problem worth solving.
  
-📬 mistrykrish2005@gmail.com | 🌐 [ krishmistry18.github.io/Portfolio](https://krishmistry18.github.io/Portfolio/)
+📬 mistrykrish2005@gmail.com | 🌐 https://portfolio-eta-pied-17.vercel.app/
  
 Open to collaborations, internships, and interesting conversations.
 
