@@ -45,23 +45,26 @@ Open to collaborations, internships, and interesting conversations.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=KrishMistry18&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=KrishMistry18&theme=dark&hide_border=false" height="180"/>
+</p>
 
-![](https://github-readme-stats.shion.dev/api?username=KrishMistry18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=KrishMistry18&theme=dark&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishMistry18&theme=react" width="100%" />
+</p>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=KrishMistry18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KrishMistry18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+</p>
 
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=KrishMistry18&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=4)
+![Trophies](https://github-trophies.vercel.app/?username=KrishMistry18&theme=radical&no-frame=true&margin-w=4&column=4)
 
 </div>
