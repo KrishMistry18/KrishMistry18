@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hello, I'm Krish Mistry👋<br>I'm a 3rd-year IT Engineering student at St. Francis Institute of Technology, Mumbai, passionate about building technology that solves real problems.
+Hello, I'm Krish Mistry👋<br>I'm a Final-year IT Engineering student at St. Francis Institute of Technology, Mumbai, passionate about building technology that solves real problems.
  
 My work spans AI-driven systems, full-stack development, and mobile applications. Some of my recent projects include:
  
