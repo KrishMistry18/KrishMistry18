@@ -21,7 +21,7 @@ Open to collaborations, internships, and interesting conversations.
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/A3B2H2dX) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krish_mistry_007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/krishmistry18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mistrykrish2005@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg//A3B2H2dX) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krish_mistry_007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishmistry18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mistrykrish2005@gmail.com) 
 
 # 🛠️ Technical Toolkit
 
@@ -48,18 +48,12 @@ Open to collaborations, internships, and interesting conversations.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=KrishMistry18&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=KrishMistry18&theme=dark&hide_border=false" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=KrishMistry18&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishMistry18&theme=react" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishMistry18&theme=react-dark&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KrishMistry18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180"/>
-</p>
-
 
 ## 🏆 GitHub Trophies
 
@@ -68,3 +62,10 @@ Open to collaborations, internships, and interesting conversations.
 ![Trophies](https://github-trophies.vercel.app/?username=KrishMistry18&theme=radical&no-frame=true&margin-w=4&column=4)
 
 </div>
+
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KrishMistry18&label=Profile%20Views&color=0891b2&style=for-the-badge" />
+</p>
