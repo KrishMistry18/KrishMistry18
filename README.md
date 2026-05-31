@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Krish+Mistry+%F0%9F%91%8B;Full-Stack+%7C+Flutter+%7C+AI+Builder;From+Hello+World+%E2%86%92+Changing+the+World" alt="Typing SVG" />
 
-**Hey, I'm Krish Mistry 👋
+**Hey, I'm Krish Mistry👋
 Final-Year IT Engineering @ St. Francis Institute of Technology, Mumbai**
 
 *Building AI-driven systems, full-stack apps, and mobile experiences that solve real problems.*
