@@ -128,7 +128,7 @@ My work spans AI-driven systems, full-stack development, and mobile applications
 
 <div align="center">
 
-![Trophies](https://github-trophies.vercel.app/?username=KrishMistry18&theme=radical&no-frame=true&margin-w=4&column=4)
+![Trophies](https://github-trophies.vercel.app/?username=KrishMistry18&theme=radical&no-frame=true&margin-w=4&column=5&titles=Commits,MultiLanguage,Repositories,Stars,Followers)
 
 </div>
 
