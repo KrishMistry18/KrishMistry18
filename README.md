@@ -98,13 +98,13 @@ My work spans AI-driven systems, full-stack development, and mobile applications
 
 ---
 
-## 🏆 Highlights
+## 🏆 Achievements &  Highlights 
 
-- 🥈 **Runner-Up** @ Colloquium '25 Hackathon
-- 🎙️ **Ideathon Organizer** — ran end-to-end event for 100+ participants
-- 🤝 **Head of NSS** @ SFIT — leadership, event management & community outreach
-
----
+| Award | Details |
+|-------|---------|
+| 🥈 Runner-Up | Colloquium '25 Inter-College IT Hackathon |
+| 🎙️ Event Organizer | Ideathon @ SFIT — 100+ participants |
+| 🤝 Head of NSS | SFIT — leadership, events & community outreach |
 
 ## 📊 GitHub Stats
 <div align="center">
