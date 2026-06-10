@@ -112,10 +112,10 @@ My work spans AI-driven systems, full-stack development, and mobile applications
 <img src="https://streak-stats.demolab.com?user=KrishMistry18&theme=tokyonight&hide_border=true" />
 <br/><br/>
 <!-- Stats card — using anuraghazra's canonical deploy -->
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=KrishMistry18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged" height="175"/>
+<img src="https://github-readme-stats-rose-three-49.vercel.app/api?username=KrishMistry18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged" height="175"/>
 &nbsp;
 <!-- Top Languages — same reliable instance -->
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KrishMistry18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=KrishMistry18" height="175"/>
+<img src="https://github-readme-stats-rose-three-49.vercel.app/api/top-langs/?username=KrishMistry18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=KrishMistry18" height="175"/>
 <br/><br/>
 <!-- Contribution Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishMistry18&theme=react-dark&hide_border=true&area=true&custom_title=Krish%20Mistry's%20Contribution%20Graph" />
