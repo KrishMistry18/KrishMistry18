@@ -109,7 +109,7 @@ My work spans AI-driven systems, full-stack development, and mobile applications
 ## 📊 GitHub Stats
 <div align="center">
 <!-- Streak Stats — demolab is reliable -->
-<img src="https://streak-stats.demolab.com?user=KrishMistry18&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=KrishMistry18&theme=tokyonight&hide_border=true&v=1" />
 <br/><br/>
 <!-- Stats card — using anuraghazra's canonical deploy -->
 <img src="https://github-readme-stats.vercel.app/api?username=KrishMistry18&show_icons=true&theme=tokyonight&hide_border=true&show=reviews,discussions_started,prs_merged" height="175"/>
