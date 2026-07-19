@@ -11,7 +11,7 @@ Final-Year IT Engineering @ St. Francis Institute of Technology, Mumbai**
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://portfolio-eta-pied-17.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishmistry18)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mistrykrish2005@gmail.com)
-[![Instagram](https://custom-icon-badges.demolab.com/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/krish_mistry_007)
+[![Instagram](./assets/instagram.svg)](https://instagram.com/krish_mistry_007)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/A3B2H2dX)
 
 🔍 **Open to internships, full-time roles & interesting collaborations**
@@ -59,7 +59,7 @@ My work spans AI-driven systems, full-stack development, and mobile applications
 ![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Angular.js](https://custom-icon-badges.demolab.com/badge/Angular.js-%23E23237.svg?logo=angular&logoColor=white&style=for-the-badge)
+![Angular.js](./assets/angularjs.svg)
 ![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
