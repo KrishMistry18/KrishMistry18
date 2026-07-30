@@ -122,6 +122,9 @@ My work spans AI-driven systems, full-stack development, and mobile applications
 <!-- Contribution Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishMistry18&theme=react-dark&hide_border=true&area=true&custom_title=Krish%20Mistry%27s%20Contribution%20Graph" />
 <br/><br/>
+<!-- GitHub Commits Heatmap -->
+<img src="https://ghchart.rshah.org/70a5fd/KrishMistry18" alt="KrishMistry18's Github Commits Heatmap" />
+<br/><br/>
 
 
 ---
