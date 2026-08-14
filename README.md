@@ -141,7 +141,7 @@ My work spans AI-driven systems, full-stack development, and mobile applications
 
 <div align="center">
 
-*💬 Always curious, always shipping. Let's build something worth solving.*
+*💬 Always curious, always learning, always shipping. Let's build something worth solving.*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=KrishMistry18&label=Profile%20Views&color=0891b2&style=for-the-badge)](https://github.com/KrishMistry18)
 
