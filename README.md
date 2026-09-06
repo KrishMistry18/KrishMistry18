@@ -120,7 +120,7 @@ My work spans AI-driven systems, full-stack development, and mobile applications
 <img src="https://github-readme-stats-rongronggg9.vercel.app/api/top-langs/?username=KrishMistry18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=KrishMistry18" height="175"/>
 <br/><br/>
 <!-- Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishMistry18&theme=react-dark&hide_border=true&area=true&custom_title=Krish%20Mistry%27s%20Contribution%20Graph" />
+<img src="https://github-readme-activity-graph-ivory-chi.vercel.app/graph?username=KrishMistry18&theme=react-dark&hide_border=true&area=true&custom_title=Krish%20Mistry%27s%20Contribution%20Graph&v=2" />
 <br/><br/>
 <!-- GitHub Commits Heatmap -->
 <img src="https://ghchart.rshah.org/70a5fd/KrishMistry18" alt="KrishMistry18's Github Commits Heatmap" />
